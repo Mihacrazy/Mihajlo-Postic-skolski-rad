@@ -1,0 +1,21 @@
+.roboto-regular {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.jaki_naslov{ 
+    text-align: center;
+    border-radius: 12px;
+    width:auto;
+    background-color: bisque;
+}
+.nzm1{
+    background-image:url("..//pozadina.jfif") ;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.div1{
+    border: black solid 1px;
+    border-radius: 12px;
+    
+}
